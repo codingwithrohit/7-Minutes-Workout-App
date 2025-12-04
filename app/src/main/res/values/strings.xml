@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">7MinutesWorkoutApp</string>
+    <string name="start">START</string>
+    <string name="ask_permission_to_quit">This will stop your workout. You have come this far, are you sure you want to quit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="calculator">Calculator</string>
+    <string name="logo_image">logo image</string>
+    <string name="enter_weight_in_kg">Enter weight in kg</string>
+    <string name="enter_height_in_cm">Enter height in cm</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="us_units">US Units</string>
+    <string name="metric_units">Metric Units</string>
+    <string name="history">History</string>
+</resources>
